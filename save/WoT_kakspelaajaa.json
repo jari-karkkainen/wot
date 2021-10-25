@@ -1,0 +1,53 @@
+{
+    "filename": "WoT_kakspelaajaa.json",
+    "playtime": "2021-10-25 08:59",
+    "version": 0.1,
+    "mode": "random",
+    "difficulty": "easy",
+    "lang": "fi",
+    "tlang": "en",
+    "completed": [
+        "6.1.2.6.4"
+    ],
+    "cverse": "The freedom of the will consists in the impossibility of knowing actions that still lie in the future. We could know them only if causality were an inner necessity like that of logical inference.\u2014The connexion between knowledge and what is known is that of logical necessity.(\u2018A knows that p is the case\u2019, has no sense if p is a tautology.)",
+    "ckey": "5.1.3.6.2",
+    "solvestring": "The freedom of the will consists in the impossibility of knowing actions that still lie in the future. We could know them only if causality were an inner necessity like that of logical inference.*The connexion between knowledge and what is known is that of logical necessity.(*A knows that p is the case*, has no sense if p is a tautology.)",
+    "sstring": "The freed\u2022m \u2022f the \u2022i\u2022\u2022 c\u2022n\u2022i\u2022t\u2022 in the im\u2022\u2022\u2022\u2022i\u2022i\u2022it\u2022 \u2022f \u2022n\u2022\u2022in\u2022 acti\u2022n\u2022 that \u2022ti\u2022\u2022 \u2022ie in the f\u2022t\u2022re. \u2022e c\u2022\u2022\u2022d \u2022n\u2022\u2022 them \u2022n\u2022\u2022 if ca\u2022\u2022a\u2022it\u2022 \u2022ere an inner nece\u2022\u2022it\u2022 \u2022i\u2022e that \u2022f \u2022\u2022\u2022ica\u2022 inference.\u2014The c\u2022nne\u2022i\u2022n \u2022et\u2022een \u2022n\u2022\u2022\u2022ed\u2022e and \u2022hat i\u2022 \u2022n\u2022\u2022n i\u2022 that \u2022f \u2022\u2022\u2022ica\u2022 nece\u2022\u2022it\u2022.(\u2018A \u2022n\u2022\u2022\u2022 that \u2022 i\u2022 the ca\u2022e\u2019, ha\u2022 n\u2022 \u2022en\u2022e if \u2022 i\u2022 a ta\u2022t\u2022\u2022\u2022\u2022\u2022.)",
+    "cplayer": "Kari Poo",
+    "players": [
+        {
+            "name": "Jari Koo",
+            "version": 0.1,
+            "points": 0,
+            "bought": 0,
+            "won": 30225,
+            "lost": 7650,
+            "robbed": 1,
+            "consonants": 0,
+            "consonantswrong": 0,
+            "vowels": 0,
+            "vowelswrong": 0,
+            "vowelsfree": 0,
+            "completed": []
+        },
+        {
+            "name": "Kari Poo",
+            "version": 0.1,
+            "points": 22500,
+            "bought": 0,
+            "won": 39800,
+            "lost": 0,
+            "robbed": 0,
+            "consonants": 0,
+            "consonantswrong": 0,
+            "vowels": 0,
+            "vowelswrong": 0,
+            "vowelsfree": 0,
+            "completed": [
+                {
+                    "6.1.2.6.4": "en"
+                }
+            ]
+        }
+    ]
+}

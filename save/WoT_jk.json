@@ -1,0 +1,47 @@
+{
+    "filename": "WoT_jk.json",
+    "playtime": "2021-10-25 10:40",
+    "version": 0.1,
+    "mode": "next",
+    "difficulty": "hard",
+    "lang": "fi",
+    "tlang": "de",
+    "completed": [],
+    "cverse": "Wenn man die logischen Zeichen richtig einf\u00fchrte, so h\u00e4tte man damit auch schon den Sinn aller ihrer Kombinationen eingef\u00fchrt; also nicht nur \u201ep\u2228q\u201c sondern auch schon \u201e~(p\u2228~q)\u201c etc. etc. Man h\u00e4tte damit auch schon die Wirkung aller nur m\u00f6glichen Kombinationen von Klammern eingef\u00fchrt. Und damit w\u00e4re es klar geworden, dass die eigentlichen allgemeinen Urzeichen nicht die \u201ep\u2228q \u201c, \u201e(\u2203x).fx\u201c, etc. sind, sondern die allgemeinste Form ihrer Kombinationen.",
+    "ckey": "5.4.6",
+    "solvestring": "Wenn man die logischen Zeichen richtig einf*hrte, so h\u00e4tte man damit auch schon den Sinn aller ihrer Kombinationen eingef*hrt* also nicht nur *p*q* sondern auch schon **(p**q)* etc. etc. Man h\u00e4tte damit auch schon die Wirkung aller nur m\u00f6glichen Kombinationen von Klammern eingef*hrt. Und damit w\u00e4re es klar geworden, dass die eigentlichen allgemeinen Urzeichen nicht die *p*q *, *(*x).fx*, etc. sind, sondern die allgemeinste Form ihrer Kombinationen.",
+    "sstring": "\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022c\u2022\u2022\u2022 \u2022\u2022\u2022c\u2022\u2022\u2022 \u2022\u2022c\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u00fc\u2022\u2022\u2022\u2022, \u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022c\u2022 \u2022c\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u00fc\u2022\u2022\u2022; \u2022\u2022\u2022\u2022 \u2022\u2022c\u2022\u2022 \u2022\u2022\u2022 \u201e\u2022\u2228\u2022\u201c \u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022c\u2022 \u2022c\u2022\u2022\u2022 \u201e~(\u2022\u2228~\u2022)\u201c \u2022\u2022c. \u2022\u2022c. \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022c\u2022 \u2022c\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022c\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u00fc\u2022\u2022\u2022. \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022, \u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022c\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022c\u2022\u2022\u2022 \u2022\u2022c\u2022\u2022 \u2022\u2022\u2022 \u201e\u2022\u2228\u2022 \u201c, \u201e(\u2203\u2022).\u2022\u2022\u201c, \u2022\u2022c. \u2022\u2022\u2022\u2022, \u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022.",
+    "cplayer": "1",
+    "players": [
+        {
+            "name": "1",
+            "version": 0.1,
+            "points": 0,
+            "bought": 0,
+            "won": 0,
+            "lost": 0,
+            "robbed": 0,
+            "consonants": 0,
+            "consonantswrong": 0,
+            "vowels": 0,
+            "vowelswrong": 0,
+            "vowelsfree": 0,
+            "completed": []
+        },
+        {
+            "name": "1",
+            "version": 0.1,
+            "points": 0,
+            "bought": 0,
+            "won": 0,
+            "lost": 0,
+            "robbed": 0,
+            "consonants": 0,
+            "consonantswrong": 0,
+            "vowels": 0,
+            "vowelswrong": 0,
+            "vowelsfree": 0,
+            "completed": []
+        }
+    ]
+}

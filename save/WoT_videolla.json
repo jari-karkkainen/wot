@@ -1,0 +1,38 @@
+{
+    "filename": "WoT_videolla.json",
+    "playtime": "2021-10-25 12:28",
+    "version": 0.1,
+    "mode": "next",
+    "difficulty": "easy",
+    "lang": "fi",
+    "tlang": "en",
+    "completed": [
+        "1"
+    ],
+    "cverse": "The world is the totality of facts, not of things.",
+    "ckey": "1.1",
+    "solvestring": "The world is the totality of facts, not of things.",
+    "sstring": "\u2022\u2022\u2022 \u2022o\u2022\u2022\u2022 \u2022\u2022 \u2022\u2022\u2022 \u2022o\u2022\u2022\u2022\u2022\u2022\u2022 of f\u2022\u2022\u2022\u2022, \u2022o\u2022 of \u2022\u2022\u2022\u2022g\u2022.",
+    "cplayer": "Jari",
+    "players": [
+        {
+            "name": "Jari",
+            "version": 0.1,
+            "points": 2775,
+            "bought": 0,
+            "won": 3150,
+            "lost": 0,
+            "robbed": 0,
+            "consonants": 1,
+            "consonantswrong": 0,
+            "vowels": 0,
+            "vowelswrong": 0,
+            "vowelsfree": 0,
+            "completed": [
+                {
+                    "1": "en"
+                }
+            ]
+        }
+    ]
+}

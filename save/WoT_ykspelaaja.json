@@ -1,0 +1,32 @@
+{
+    "filename": "WoT_ykspelaaja.json",
+    "playtime": "2021-10-24 11:08",
+    "version": 0.1,
+    "mode": "next",
+    "difficulty": "hard",
+    "lang": "fi",
+    "tlang": "de",
+    "completed": [],
+    "cverse": "Die Welt ist alles, was der Fall ist.",
+    "ckey": "1",
+    "solvestring": "Die Welt ist alles, was der Fall ist.",
+    "sstring": "\u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022, \u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022.",
+    "cplayer": "JAri",
+    "players": [
+        {
+            "name": "JAri",
+            "version": 0.1,
+            "points": 0,
+            "bought": 0,
+            "won": 0,
+            "lost": 0,
+            "robbed": 0,
+            "consonants": 0,
+            "consonantswrong": 0,
+            "vowels": 0,
+            "vowelswrong": 0,
+            "vowelsfree": 0,
+            "completed": []
+        }
+    ]
+}
